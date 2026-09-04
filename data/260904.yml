@@ -7,7 +7,7 @@ about:
   head: ca98e44
   archived: false
   latestVersion: v0.20.0
-  collectedAt: 2026-09-04T20:15:33Z
+  collectedAt: 2026-09-04T20:28:59Z
 timeline:
   created: 2014-11-29
   lastCommit: 2026-09-03
@@ -84,7 +84,7 @@ total:
   commit: 2120
 ---
 path: /home/runner/.x-repo/github.com/asdf-vm/asdf
-collectedAt: 2026-09-04T20:15:34Z
+collectedAt: 2026-09-04T20:29:01Z
 loc:
   Go:
     code: 7659
