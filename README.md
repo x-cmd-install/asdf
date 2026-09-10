@@ -23,11 +23,25 @@ x install asdf
 - **Latest**: `v0.20.0` (2026-07-07)
 - **Last commit**: 2026-09-03
 - **Assets in release**: 10
-- **Published**: 2026-07-07T14:05:10Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [asdf-v0.20.0-darwin-amd64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-amd64.tar.gz) | 1.7 MiB | `native/darwin/x64` |
+| [asdf-v0.20.0-darwin-amd64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-amd64.tar.gz.md5) | 33 B | `native/darwin/x64` |
+| [asdf-v0.20.0-darwin-arm64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-arm64.tar.gz) | 1.6 MiB | `native/darwin/arm64` |
+| [asdf-v0.20.0-darwin-arm64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-arm64.tar.gz.md5) | 33 B | `native/darwin/arm64` |
+| [asdf-v0.20.0-linux-386.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-386.tar.gz) | 1.6 MiB | `native/unknown` |
+| [asdf-v0.20.0-linux-386.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-386.tar.gz.md5) | 33 B | `other` |
+| [asdf-v0.20.0-linux-amd64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
+| [asdf-v0.20.0-linux-amd64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
+| [asdf-v0.20.0-linux-arm64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-arm64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
+| [asdf-v0.20.0-linux-arm64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
 
 ## Popularity
 
-- **Stars**: 25,576 · **Forks**: 941 · **Open issues**: 1,059 · **Contributors**: 280
+- **Stars**: 25,579 · **Forks**: 941 · **Open issues**: 1,059 · **Contributors**: 280
 
 ## Totals (cumulative)
 
@@ -68,8 +82,8 @@ Lowest-scoring checks:
 Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `asdf` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/asdf.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/asdf.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:27:46Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:59:34Z._

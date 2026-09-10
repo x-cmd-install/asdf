@@ -4,7 +4,7 @@
 
 Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
-![asdf](https://repo.x-cmd.io/asdf.svg)
+![asdf](https://repo.x-cmd.io/asdf.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,25 @@ x install asdf
 - **最新版本**: `v0.20.0` (2026-07-07)
 - **最近提交**: 2026-09-03
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-07-07T14:05:10Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [asdf-v0.20.0-darwin-amd64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-amd64.tar.gz) | 1.7 MiB | `native/darwin/x64` |
+| [asdf-v0.20.0-darwin-amd64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-amd64.tar.gz.md5) | 33 B | `native/darwin/x64` |
+| [asdf-v0.20.0-darwin-arm64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-arm64.tar.gz) | 1.6 MiB | `native/darwin/arm64` |
+| [asdf-v0.20.0-darwin-arm64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-arm64.tar.gz.md5) | 33 B | `native/darwin/arm64` |
+| [asdf-v0.20.0-linux-386.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-386.tar.gz) | 1.6 MiB | `native/unknown` |
+| [asdf-v0.20.0-linux-386.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-386.tar.gz.md5) | 33 B | `other` |
+| [asdf-v0.20.0-linux-amd64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
+| [asdf-v0.20.0-linux-amd64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
+| [asdf-v0.20.0-linux-arm64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-arm64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
+| [asdf-v0.20.0-linux-arm64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
 
 ## 流行度
 
-- **Star**: 25,576 · **Fork**: 941 · **开放 issue**: 1,059 · **贡献者**: 280
+- **Star**: 25,579 · **Fork**: 941 · **开放 issue**: 1,059 · **贡献者**: 280
 
 ## 累计统计
 
@@ -72,4 +86,4 @@ asdf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:27:46Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:59:35Z._
