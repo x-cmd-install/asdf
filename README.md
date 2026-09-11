@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,580 · **Forks**: 941 · **Open issues**: 1,059 · **Contributors**: 280
+- **Stars**: 25,582 · **Forks**: 941 · **Open issues**: 1,059 · **Contributors**: 280
 
 ## Totals (cumulative)
 
@@ -89,4 +89,4 @@ Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:25:35Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:43:38Z._
