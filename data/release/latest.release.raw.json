@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1806036,
       "digest": "sha256:8217f33fd165131546aa034f3dabd1a6978cced71c271b4079b4f880965554c1",
-      "download_count": 1464,
+      "download_count": 1478,
       "created_at": "2026-07-07T14:05:39Z",
       "updated_at": "2026-07-07T14:05:39Z",
       "browser_download_url": "https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:b5a8c049e6438a0013614e2cf610c9456993bd76c4d1305b34f4178f2bfdc9f3",
-      "download_count": 132,
+      "download_count": 134,
       "created_at": "2026-07-07T14:05:40Z",
       "updated_at": "2026-07-07T14:05:40Z",
       "browser_download_url": "https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-amd64.tar.gz.md5"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1663991,
       "digest": "sha256:cc94a8cb12bd9692cd760ca184291552fd7206cf8306e51e4de45db94eea3cb5",
-      "download_count": 24098,
+      "download_count": 24439,
       "created_at": "2026-07-07T14:05:38Z",
       "updated_at": "2026-07-07T14:05:38Z",
       "browser_download_url": "https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:4eb544f602eb82a6af41ee9784ce0ed12b55f12b9259d808bb18ca4af50c6723",
-      "download_count": 389,
+      "download_count": 399,
       "created_at": "2026-07-07T14:05:39Z",
       "updated_at": "2026-07-07T14:05:39Z",
       "browser_download_url": "https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-arm64.tar.gz.md5"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1678363,
       "digest": "sha256:17b32c669b0ea72d6c941cb00b8a337e55b62d2e5bee0644c2df0f5f2997ca56",
-      "download_count": 350,
+      "download_count": 359,
       "created_at": "2026-07-07T14:05:40Z",
       "updated_at": "2026-07-07T14:05:40Z",
       "browser_download_url": "https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-386.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:26de42da51e4d4f74c272e2dd166ebe60d9409b8431dfa62cdc29a28fa18555f",
-      "download_count": 125,
+      "download_count": 127,
       "created_at": "2026-07-07T14:05:40Z",
       "updated_at": "2026-07-07T14:05:41Z",
       "browser_download_url": "https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-386.tar.gz.md5"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1778574,
       "digest": "sha256:9c25e1af7cc4c9d59ff3736eba14fd000480c32929258f80d8c5a8b290ebee14",
-      "download_count": 835009,
+      "download_count": 846779,
       "created_at": "2026-07-07T14:05:39Z",
       "updated_at": "2026-07-07T14:05:40Z",
       "browser_download_url": "https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:66f6eba8a95c9fde4e5d74d4f4e799dd27c70b4fca6694bdc17c31db62248962",
-      "download_count": 18747,
+      "download_count": 19191,
       "created_at": "2026-07-07T14:05:41Z",
       "updated_at": "2026-07-07T14:05:41Z",
       "browser_download_url": "https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-amd64.tar.gz.md5"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1602043,
       "digest": "sha256:bbc1889886a9826ce3f57f56e4bae575767a4af3d35d649d62116ee14334e59a",
-      "download_count": 110262,
+      "download_count": 111622,
       "created_at": "2026-07-07T14:05:42Z",
       "updated_at": "2026-07-07T14:05:42Z",
       "browser_download_url": "https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:c4c1eb10cf1389fae64871aad693c5ffaac59b31694d17561ccf7e34f5a88445",
-      "download_count": 2734,
+      "download_count": 2849,
       "created_at": "2026-07-07T14:05:43Z",
       "updated_at": "2026-07-07T14:05:43Z",
       "browser_download_url": "https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-arm64.tar.gz.md5"

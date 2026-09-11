@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.20.0"
   latestRelease: "v0.20.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:25:30Z
+  collectedAt: 2026-09-11T20:43:31Z
 timeline:
   created: 2014-11-29
   lastCommit: 2026-09-03
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-07
   lastPrerelease: 
 popularity:
-  star: 25580
+  star: 25582
   watcher: 115
   fork: 941
   release: 27
@@ -86,7 +86,7 @@ total:
   commit: 2120
 ---
 path: /home/runner/.x-repo/github.com/asdf-vm/asdf
-collectedAt: 2026-09-11T04:25:32Z
+collectedAt: 2026-09-11T20:43:33Z
 loc:
   Go:
     code: 7659
