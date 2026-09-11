@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.20.0"
   latestRelease: "v0.20.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:24:11Z
+  collectedAt: 2026-09-11T04:25:30Z
 timeline:
   created: 2014-11-29
   lastCommit: 2026-09-03
@@ -86,7 +86,7 @@ total:
   commit: 2120
 ---
 path: /home/runner/.x-repo/github.com/asdf-vm/asdf
-collectedAt: 2026-09-11T00:24:12Z
+collectedAt: 2026-09-11T04:25:32Z
 loc:
   Go:
     code: 7659
