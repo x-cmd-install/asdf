@@ -4,7 +4,7 @@
 
 Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
-![asdf](https://repo.x-cmd.io/asdf.svg)
+[![x-cmd/install — asdf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/asdf.svg)](https://x-cmd.com/install/asdf)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,590 · **Forks**: 941 · **Open issues**: 1,059 · **Contributors**: 280
+- **Stars**: 25,592 · **Forks**: 941 · **Open issues**: 1,059 · **Contributors**: 280
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 3 | 3 | 0 | 2 | 5 |
-| last60d | 2026-07-20 | 0 | 8 | 6 | 2 | 3 | 8 |
-| 90d | 2026-06-20 | 1 | 20 | 7 | 4 | 3 | 21 |
-| last180d | 2026-03-22 | 2 | 36 | 7 | 7 | 6 | 42 |
-| 360d | 2025-09-23 | 3 | 60 | 10 | 30 | 18 | 69 |
-| last720d | 2024-09-28 | 14 | 212 | 17 | 191 | 52 | 432 |
+| 30d | 2026-08-21 | 0 | 3 | 3 | 0 | 2 | 5 |
+| last60d | 2026-07-22 | 0 | 8 | 6 | 2 | 3 | 8 |
+| 90d | 2026-06-22 | 1 | 19 | 7 | 4 | 3 | 21 |
+| last180d | 2026-03-24 | 2 | 36 | 7 | 7 | 6 | 42 |
+| 360d | 2025-09-25 | 3 | 60 | 10 | 29 | 17 | 69 |
+| last720d | 2024-09-30 | 14 | 212 | 17 | 190 | 52 | 432 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:29:35Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:45:13Z._
