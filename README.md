@@ -14,11 +14,11 @@ x install asdf
 
 ## Code insight
 
-Total: **11,373** lines of code across **76** files in the top 5 languages.
+Total: **11,382** lines of code across **76** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 7,659 | 540 | 1,726 | 44 |
+| Go | 7,668 | 542 | 1,727 | 44 |
 | Json | 2,574 | 0 | 0 | 3 |
 | Bash | 537 | 101 | 109 | 27 |
 | Zsh | 287 | 46 | 16 | 1 |
@@ -26,11 +26,11 @@ Total: **11,373** lines of code across **76** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 7/16 approved changesets -- score normalized to 4
+- **Code-Review** (3/10) — Found 5/16 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -42,43 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.20.0` (2026-07-07)
-- **Last commit**: 2026-09-03
-- **Assets in release**: 10
+- **Latest**: `v0.20.1` (2026-09-22)
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 25,594 · **Forks**: 942 · **Open issues**: 1,059 · **Contributors**: 280
+- **Stars**: 25,596 · **Forks**: 944 · **Open issues**: 1,061 · **Contributors**: 280
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 889 · **Open PRs**: 19 · **Closed issues**: 932 · **Open issues**: 127 · **Commits**: 2120
+- **Releases**: 28 · **Merged PRs**: 891 · **Open PRs**: 18 · **Closed issues**: 931 · **Open issues**: 130 · **Commits**: 2122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 3 | 4 | 0 | 2 | 4 |
-| last60d | 2026-07-23 | 0 | 7 | 7 | 2 | 3 | 8 |
-| 90d | 2026-06-23 | 1 | 18 | 8 | 4 | 3 | 21 |
-| last180d | 2026-03-25 | 2 | 36 | 8 | 7 | 5 | 42 |
-| 360d | 2025-09-26 | 3 | 60 | 11 | 29 | 17 | 69 |
-| last720d | 2024-10-01 | 14 | 212 | 18 | 189 | 52 | 432 |
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [asdf-v0.20.0-darwin-amd64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-amd64.tar.gz) | 1.7 MiB | `native/darwin/x64` |
-| [asdf-v0.20.0-darwin-amd64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-amd64.tar.gz.md5) | 33 B | `native/darwin/x64` |
-| [asdf-v0.20.0-darwin-arm64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-arm64.tar.gz) | 1.6 MiB | `native/darwin/arm64` |
-| [asdf-v0.20.0-darwin-arm64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-arm64.tar.gz.md5) | 33 B | `native/darwin/arm64` |
-| [asdf-v0.20.0-linux-386.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-386.tar.gz) | 1.6 MiB | `native/unknown` |
-| [asdf-v0.20.0-linux-386.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-386.tar.gz.md5) | 33 B | `other` |
-| [asdf-v0.20.0-linux-amd64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
-| [asdf-v0.20.0-linux-amd64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
-| [asdf-v0.20.0-linux-arm64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-arm64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
-| [asdf-v0.20.0-linux-arm64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
+| 30d | 2026-08-23 | 1 | 4 | 4 | 0 | 4 | 6 |
+| last60d | 2026-07-24 | 1 | 8 | 7 | 2 | 5 | 10 |
+| 90d | 2026-06-24 | 2 | 20 | 7 | 4 | 5 | 23 |
+| last180d | 2026-03-26 | 3 | 38 | 7 | 6 | 8 | 44 |
+| 360d | 2025-09-27 | 4 | 62 | 10 | 27 | 20 | 71 |
+| last720d | 2024-10-02 | 15 | 214 | 17 | 188 | 55 | 434 |
 
 ## Improve this data
 
@@ -89,4 +73,4 @@ Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:43:26Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:39:46Z._

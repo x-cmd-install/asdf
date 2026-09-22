@@ -14,11 +14,11 @@ x install asdf
 
 ## 代码洞察
 
-合计: **11,373** 行代码（覆盖前 5 种语言、共 **76** 个文件）。
+合计: **11,382** 行代码（覆盖前 5 种语言、共 **76** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 7,659 | 540 | 1,726 | 44 |
+| Go | 7,668 | 542 | 1,727 | 44 |
 | Json | 2,574 | 0 | 0 | 3 |
 | Bash | 537 | 101 | 109 | 27 |
 | Zsh | 287 | 46 | 16 | 1 |
@@ -26,11 +26,11 @@ x install asdf
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.2 / 10**
+总评分: **5.1 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 7/16 approved changesets -- score normalized to 4
+- **Code-Review** (3/10) — Found 5/16 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -42,43 +42,27 @@ x install asdf
 
 ## 发布
 
-- **最新版本**: `v0.20.0` (2026-07-07)
-- **最近提交**: 2026-09-03
-- **Release 含资产**: 10 个
+- **最新版本**: `v0.20.1` (2026-09-22)
+- **最近提交**: 2026-09-22
 
 ## 流行度
 
-- **Star**: 25,594 · **Fork**: 942 · **开放 issue**: 1,059 · **贡献者**: 280
+- **Star**: 25,596 · **Fork**: 944 · **开放 issue**: 1,061 · **贡献者**: 280
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 889 · **开放 PR**: 19 · **已关闭 issue**: 932 · **开放 issue**: 127 · **提交数**: 2120
+- **发布数**: 28 · **已合并 PR**: 891 · **开放 PR**: 18 · **已关闭 issue**: 931 · **开放 issue**: 130 · **提交数**: 2122
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 3 | 4 | 0 | 2 | 4 |
-| last60d | 2026-07-23 | 0 | 7 | 7 | 2 | 3 | 8 |
-| 90d | 2026-06-23 | 1 | 18 | 8 | 4 | 3 | 21 |
-| last180d | 2026-03-25 | 2 | 36 | 8 | 7 | 5 | 42 |
-| 360d | 2025-09-26 | 3 | 60 | 11 | 29 | 17 | 69 |
-| last720d | 2024-10-01 | 14 | 212 | 18 | 189 | 52 | 432 |
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [asdf-v0.20.0-darwin-amd64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-amd64.tar.gz) | 1.7 MiB | `native/darwin/x64` |
-| [asdf-v0.20.0-darwin-amd64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-amd64.tar.gz.md5) | 33 B | `native/darwin/x64` |
-| [asdf-v0.20.0-darwin-arm64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-arm64.tar.gz) | 1.6 MiB | `native/darwin/arm64` |
-| [asdf-v0.20.0-darwin-arm64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-darwin-arm64.tar.gz.md5) | 33 B | `native/darwin/arm64` |
-| [asdf-v0.20.0-linux-386.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-386.tar.gz) | 1.6 MiB | `native/unknown` |
-| [asdf-v0.20.0-linux-386.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-386.tar.gz.md5) | 33 B | `other` |
-| [asdf-v0.20.0-linux-amd64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
-| [asdf-v0.20.0-linux-amd64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
-| [asdf-v0.20.0-linux-arm64.tar.gz](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-arm64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
-| [asdf-v0.20.0-linux-arm64.tar.gz.md5](https://github.com/asdf-vm/asdf/releases/download/v0.20.0/asdf-v0.20.0-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
+| 30d | 2026-08-23 | 1 | 4 | 4 | 0 | 4 | 6 |
+| last60d | 2026-07-24 | 1 | 8 | 7 | 2 | 5 | 10 |
+| 90d | 2026-06-24 | 2 | 20 | 7 | 4 | 5 | 23 |
+| last180d | 2026-03-26 | 3 | 38 | 7 | 6 | 8 | 44 |
+| 360d | 2025-09-27 | 4 | 62 | 10 | 27 | 20 | 71 |
+| last720d | 2024-10-02 | 15 | 214 | 17 | 188 | 55 | 434 |
 
 ## 改进这些数据
 
@@ -89,4 +73,4 @@ asdf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T04:43:27Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T04:39:46Z._
