@@ -30,8 +30,8 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (2/10) — Found 4/16 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,596 · **Forks**: 946 · **Open issues**: 1,063 · **Contributors**: 280
+- **Stars**: 25,594 · **Forks**: 947 · **Open issues**: 1,063 · **Contributors**: 280
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 897 · **Open PRs**: 20 · **Closed issues**: 935 · **Open issues**: 128 · **Commits**: 2124
+- **Releases**: 28 · **Merged PRs**: 897 · **Open PRs**: 21 · **Closed issues**: 935 · **Open issues**: 128 · **Commits**: 2124
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 7 | 4 | 3 | 1 | 4 |
-| last60d | 2026-08-06 | 1 | 11 | 8 | 3 | 4 | 9 |
-| 90d | 2026-07-07 | 2 | 22 | 9 | 6 | 4 | 16 |
-| last180d | 2026-04-08 | 3 | 40 | 9 | 10 | 6 | 39 |
-| 360d | 2025-10-10 | 4 | 67 | 12 | 29 | 17 | 70 |
-| last720d | 2024-10-15 | 15 | 218 | 19 | 191 | 53 | 432 |
+| 30d | 2026-09-06 | 1 | 7 | 5 | 3 | 1 | 4 |
+| last60d | 2026-08-07 | 1 | 11 | 9 | 3 | 4 | 9 |
+| 90d | 2026-07-08 | 1 | 21 | 10 | 6 | 4 | 16 |
+| last180d | 2026-04-09 | 3 | 40 | 10 | 10 | 6 | 39 |
+| 360d | 2025-10-11 | 4 | 67 | 13 | 29 | 17 | 70 |
+| last720d | 2024-10-16 | 15 | 218 | 20 | 190 | 53 | 432 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:24:35Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:07:46Z._
