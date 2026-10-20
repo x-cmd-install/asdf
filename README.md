@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,603 · **Forks**: 1,021 · **Open issues**: 1,063 · **Contributors**: 280
+- **Stars**: 25,603 · **Forks**: 1,049 · **Open issues**: 1,063 · **Contributors**: 280
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 10 | 3 | 2 | 1 | 3 |
-| last60d | 2026-08-20 | 1 | 13 | 6 | 3 | 3 | 12 |
-| 90d | 2026-07-21 | 1 | 18 | 9 | 5 | 4 | 15 |
-| last180d | 2026-04-22 | 3 | 41 | 9 | 9 | 4 | 36 |
-| 360d | 2025-10-24 | 4 | 65 | 12 | 28 | 17 | 70 |
-| last720d | 2024-10-29 | 15 | 221 | 19 | 190 | 53 | 435 |
+| 30d | 2026-09-20 | 1 | 10 | 2 | 2 | 1 | 3 |
+| last60d | 2026-08-21 | 1 | 13 | 6 | 3 | 3 | 12 |
+| 90d | 2026-07-22 | 1 | 18 | 9 | 5 | 4 | 15 |
+| last180d | 2026-04-23 | 3 | 41 | 9 | 9 | 4 | 36 |
+| 360d | 2025-10-25 | 4 | 65 | 12 | 27 | 17 | 70 |
+| last720d | 2024-10-30 | 15 | 221 | 19 | 190 | 53 | 435 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:26:19Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:36:49Z._
