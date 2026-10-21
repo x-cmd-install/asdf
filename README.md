@@ -30,9 +30,9 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 4/16 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (2/10) — Found 3/15 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,603 · **Forks**: 1,049 · **Open issues**: 1,063 · **Contributors**: 280
+- **Stars**: 25,606 · **Forks**: 986 · **Open issues**: 1,063 · **Contributors**: 280
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 900 · **Open PRs**: 20 · **Closed issues**: 935 · **Open issues**: 128 · **Commits**: 2127
+- **Releases**: 28 · **Merged PRs**: 900 · **Open PRs**: 22 · **Closed issues**: 935 · **Open issues**: 128 · **Commits**: 2127
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 10 | 2 | 2 | 1 | 3 |
-| last60d | 2026-08-21 | 1 | 13 | 6 | 3 | 3 | 12 |
-| 90d | 2026-07-22 | 1 | 18 | 9 | 5 | 4 | 15 |
-| last180d | 2026-04-23 | 3 | 41 | 9 | 9 | 4 | 36 |
-| 360d | 2025-10-25 | 4 | 65 | 12 | 27 | 17 | 70 |
-| last720d | 2024-10-30 | 15 | 221 | 19 | 190 | 53 | 435 |
+| 30d | 2026-09-21 | 1 | 10 | 4 | 2 | 0 | 3 |
+| last60d | 2026-08-22 | 1 | 13 | 8 | 3 | 3 | 12 |
+| 90d | 2026-07-23 | 1 | 17 | 11 | 5 | 4 | 15 |
+| last180d | 2026-04-24 | 3 | 41 | 11 | 9 | 4 | 36 |
+| 360d | 2025-10-26 | 4 | 65 | 14 | 27 | 17 | 70 |
+| last720d | 2024-10-31 | 15 | 221 | 21 | 190 | 53 | 435 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:36:49Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:29:57Z._

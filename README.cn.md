@@ -30,9 +30,9 @@ x install asdf
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 4/16 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (2/10) — Found 3/15 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install asdf
 
 ## 流行度
 
-- **Star**: 25,603 · **Fork**: 1,049 · **开放 issue**: 1,063 · **贡献者**: 280
+- **Star**: 25,606 · **Fork**: 986 · **开放 issue**: 1,063 · **贡献者**: 280
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 900 · **开放 PR**: 20 · **已关闭 issue**: 935 · **开放 issue**: 128 · **提交数**: 2127
+- **发布数**: 28 · **已合并 PR**: 900 · **开放 PR**: 22 · **已关闭 issue**: 935 · **开放 issue**: 128 · **提交数**: 2127
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 10 | 2 | 2 | 1 | 3 |
-| last60d | 2026-08-21 | 1 | 13 | 6 | 3 | 3 | 12 |
-| 90d | 2026-07-22 | 1 | 18 | 9 | 5 | 4 | 15 |
-| last180d | 2026-04-23 | 3 | 41 | 9 | 9 | 4 | 36 |
-| 360d | 2025-10-25 | 4 | 65 | 12 | 27 | 17 | 70 |
-| last720d | 2024-10-30 | 15 | 221 | 19 | 190 | 53 | 435 |
+| 30d | 2026-09-21 | 1 | 10 | 4 | 2 | 0 | 3 |
+| last60d | 2026-08-22 | 1 | 13 | 8 | 3 | 3 | 12 |
+| 90d | 2026-07-23 | 1 | 17 | 11 | 5 | 4 | 15 |
+| last180d | 2026-04-24 | 3 | 41 | 11 | 9 | 4 | 36 |
+| 360d | 2025-10-26 | 4 | 65 | 14 | 27 | 17 | 70 |
+| last720d | 2024-10-31 | 15 | 221 | 21 | 190 | 53 | 435 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ asdf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T04:36:50Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T04:29:58Z._
