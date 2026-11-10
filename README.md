@@ -26,12 +26,12 @@ Total: **11,381** lines of code across **76** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 3/15 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 4/17 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.20.2` (2026-09-22)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-11-10
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 25,618 · **Forks**: 1,048 · **Open issues**: 1,063 · **Contributors**: 280
+- **Stars**: 25,621 · **Forks**: 1,048 · **Open issues**: 1,063 · **Contributors**: 281
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 900 · **Open PRs**: 23 · **Closed issues**: 935 · **Open issues**: 128 · **Commits**: 2127
+- **Releases**: 28 · **Merged PRs**: 903 · **Open PRs**: 23 · **Closed issues**: 935 · **Open issues**: 128 · **Commits**: 2130
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 2 | 4 | 0 | 0 | 3 |
-| last60d | 2026-09-09 | 1 | 10 | 8 | 3 | 1 | 7 |
-| 90d | 2026-08-10 | 1 | 13 | 12 | 3 | 4 | 13 |
-| last180d | 2026-05-12 | 2 | 35 | 13 | 9 | 4 | 33 |
-| 360d | 2025-11-13 | 4 | 64 | 16 | 25 | 15 | 69 |
-| last720d | 2024-11-18 | 15 | 221 | 22 | 188 | 52 | 435 |
+| 30d | 2026-10-11 | 0 | 5 | 4 | 0 | 0 | 6 |
+| last60d | 2026-09-11 | 1 | 13 | 8 | 3 | 1 | 10 |
+| 90d | 2026-08-12 | 1 | 16 | 11 | 3 | 4 | 15 |
+| last180d | 2026-05-14 | 2 | 38 | 13 | 9 | 4 | 35 |
+| 360d | 2025-11-15 | 4 | 67 | 16 | 24 | 15 | 72 |
+| last720d | 2024-11-20 | 15 | 224 | 22 | 187 | 52 | 438 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:49:08Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:03:45Z._
