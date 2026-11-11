@@ -14,13 +14,13 @@ x install asdf
 
 ## Code insight
 
-Total: **11,381** lines of code across **76** files in the top 5 languages.
+Total: **11,380** lines of code across **76** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 7,668 | 542 | 1,727 | 44 |
 | Json | 2,573 | 0 | 0 | 3 |
-| Bash | 537 | 101 | 109 | 27 |
+| Bash | 536 | 107 | 109 | 27 |
 | Zsh | 287 | 46 | 16 | 1 |
 | Python | 203 | 35 | 37 | 1 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.20.2` (2026-09-22)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 25,621 · **Forks**: 1,048 · **Open issues**: 1,063 · **Contributors**: 281
+- **Stars**: 25,622 · **Forks**: 1,048 · **Open issues**: 1,063 · **Contributors**: 281
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 903 · **Open PRs**: 23 · **Closed issues**: 935 · **Open issues**: 128 · **Commits**: 2130
+- **Releases**: 28 · **Merged PRs**: 904 · **Open PRs**: 23 · **Closed issues**: 935 · **Open issues**: 128 · **Commits**: 2131
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 5 | 4 | 0 | 0 | 6 |
-| last60d | 2026-09-11 | 1 | 13 | 8 | 3 | 1 | 10 |
-| 90d | 2026-08-12 | 1 | 16 | 11 | 3 | 4 | 15 |
-| last180d | 2026-05-14 | 2 | 38 | 13 | 9 | 4 | 35 |
-| 360d | 2025-11-15 | 4 | 67 | 16 | 24 | 15 | 72 |
-| last720d | 2024-11-20 | 15 | 224 | 22 | 187 | 52 | 438 |
+| 30d | 2026-10-12 | 0 | 6 | 4 | 0 | 0 | 7 |
+| last60d | 2026-09-12 | 1 | 14 | 8 | 3 | 1 | 11 |
+| 90d | 2026-08-13 | 1 | 17 | 11 | 3 | 4 | 16 |
+| last180d | 2026-05-15 | 2 | 39 | 13 | 9 | 4 | 36 |
+| 360d | 2025-11-16 | 4 | 68 | 16 | 24 | 15 | 73 |
+| last720d | 2024-11-21 | 15 | 225 | 22 | 187 | 52 | 439 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:03:45Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:55:23Z._
