@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 6 | 4 | 0 | 0 | 7 |
-| last60d | 2026-09-12 | 1 | 14 | 8 | 3 | 1 | 11 |
-| 90d | 2026-08-13 | 1 | 17 | 11 | 3 | 4 | 16 |
-| last180d | 2026-05-15 | 2 | 39 | 13 | 9 | 4 | 36 |
-| 360d | 2025-11-16 | 4 | 68 | 16 | 24 | 15 | 73 |
-| last720d | 2024-11-21 | 15 | 225 | 22 | 187 | 52 | 439 |
+| 30d | 2026-10-13 | 0 | 6 | 4 | 0 | 0 | 7 |
+| last60d | 2026-09-13 | 1 | 14 | 7 | 3 | 1 | 11 |
+| 90d | 2026-08-14 | 1 | 17 | 10 | 3 | 4 | 16 |
+| last180d | 2026-05-16 | 2 | 39 | 13 | 9 | 4 | 36 |
+| 360d | 2025-11-17 | 4 | 68 | 16 | 24 | 15 | 73 |
+| last720d | 2024-11-22 | 15 | 225 | 22 | 187 | 52 | 439 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T05:55:23Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T06:59:32Z._
