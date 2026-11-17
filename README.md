@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,623 · **Forks**: 1,047 · **Open issues**: 1,063 · **Contributors**: 281
+- **Stars**: 25,624 · **Forks**: 1,047 · **Open issues**: 1,063 · **Contributors**: 281
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 904 · **Open PRs**: 23 · **Closed issues**: 935 · **Open issues**: 128 · **Commits**: 2131
+- **Releases**: 28 · **Merged PRs**: 904 · **Open PRs**: 25 · **Closed issues**: 935 · **Open issues**: 128 · **Commits**: 2131
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 4 | 4 | 0 | 0 | 4 |
-| last60d | 2026-09-17 | 1 | 14 | 7 | 2 | 1 | 7 |
-| 90d | 2026-08-18 | 1 | 17 | 10 | 3 | 3 | 16 |
-| last180d | 2026-05-20 | 2 | 37 | 13 | 8 | 4 | 34 |
-| 360d | 2025-11-21 | 4 | 67 | 15 | 24 | 14 | 72 |
-| last720d | 2024-11-26 | 15 | 225 | 22 | 187 | 52 | 439 |
+| 30d | 2026-10-18 | 0 | 4 | 6 | 0 | 0 | 4 |
+| last60d | 2026-09-18 | 1 | 14 | 9 | 2 | 1 | 7 |
+| 90d | 2026-08-19 | 1 | 17 | 12 | 3 | 3 | 16 |
+| last180d | 2026-05-21 | 2 | 37 | 15 | 8 | 4 | 34 |
+| 360d | 2025-11-22 | 4 | 67 | 17 | 24 | 14 | 72 |
+| last720d | 2024-11-27 | 15 | 225 | 24 | 187 | 52 | 439 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:08:44Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:46:39Z._
