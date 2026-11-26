@@ -38,7 +38,7 @@ Total: **11,380** lines of code across **76** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 25,626 · **Forks**: 985 · **Open issues**: 1,063 · **Contributors**: 281
+- **Stars**: 25,629 · **Forks**: 985 · **Open issues**: 1,063 · **Contributors**: 281
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **11,380** lines of code across **76** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 4 | 7 | 0 | 0 | 4 |
-| last60d | 2026-09-26 | 0 | 7 | 11 | 0 | 0 | 7 |
-| 90d | 2026-08-27 | 1 | 16 | 15 | 3 | 2 | 14 |
-| last180d | 2026-05-29 | 2 | 37 | 18 | 8 | 4 | 34 |
-| 360d | 2025-11-30 | 4 | 66 | 20 | 23 | 14 | 69 |
-| last720d | 2024-12-05 | 15 | 224 | 27 | 186 | 51 | 439 |
+| 30d | 2026-10-27 | 0 | 4 | 7 | 0 | 0 | 4 |
+| last60d | 2026-09-27 | 0 | 7 | 11 | 0 | 0 | 7 |
+| 90d | 2026-08-28 | 1 | 15 | 15 | 3 | 2 | 14 |
+| last180d | 2026-05-30 | 2 | 37 | 18 | 8 | 4 | 34 |
+| 360d | 2025-12-01 | 4 | 65 | 20 | 23 | 14 | 69 |
+| last720d | 2024-12-06 | 15 | 224 | 27 | 186 | 51 | 439 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for asdf lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:14:04Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:01:33Z._
